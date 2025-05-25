@@ -11,7 +11,7 @@
 
 ## 📥 Recursos útiles
 
-- 📄 [Script SQL con libros de muestra](profile/resources/sql/books.sql)
+- 📄 [Script SQL con libros de muestra](../profile/resources/sql/books.sql)
 - 🖼 Capturas de pantalla del sistema disponibles en la carpeta `resources/images/`
 
 ---
